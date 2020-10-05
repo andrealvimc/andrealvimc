@@ -2,7 +2,8 @@
 
 
 
-Olá 👋🏻, sou André. Apaixonado por JavaScript e TypeScript, atualmente estou buscando aprender novos ecossistemas e tecnologias. Programo FrontEnd com ReactJS, Mobile com ReactNative e backend com NodeJS. Adoro conhecer novas tecnologias.
+Olá 👋🏻, me chamo André, tenho 17 anos, sou apaixonado por tecnologia e tudo que ela consegue nos proporcionar. 
+
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Andre-Alvim)
