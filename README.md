@@ -2,7 +2,7 @@
 
 
 
-Hello 👋🏻, my name is André, I am 17 years old, I am passionate about technology and everything it can provide us. 
+Hello 👋🏻, my name is André. I am passionate about technology and everything it can provide us. 
 
 
 
