@@ -30,4 +30,4 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
-![](https://komarev.com/ghpvc/?username=Andre-Alvim)
+![](https://komarev.com/ghpvc/?username=andrealvimc)
