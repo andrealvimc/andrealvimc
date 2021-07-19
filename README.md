@@ -6,8 +6,8 @@ Hello 👋🏻, my name is André. I am passionate about technology and everythi
 
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc)
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&layout=compact) 
+![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc&count_private=true&show_icons=true&theme=dracula)
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&count_private=true&show_icons=true&theme=dracula&layout=compact) 
 
 ## ⚡ Technologies
 
