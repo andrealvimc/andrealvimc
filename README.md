@@ -4,10 +4,10 @@ Hello 👋🏻, my name is André. I am passionate about technology and everythi
 
 
 ## Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc&count_private=true&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc&count_private=true&show_icons=true)
 
 ## Top Langs
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&count_private=true&show_icons=true&theme=dracula) 
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&count_private=true&show_icons=true) 
 
 
 ## ⚡ Technologies
