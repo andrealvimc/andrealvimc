@@ -4,13 +4,24 @@ Hello 👋🏻, my name is André. I am passionate about technology and everythi
 
 
 ## ✨ Github Stats
-![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc&count_private=true&show_icons=true)
+  ![github stats](https://github-readme-stats.vercel.app/api?username=andrealvimc&count_private=true&show_icons=true)
+
 
 ## 🚀 Top Langs
-![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&count_private=true&show_icons=true) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrealvimc&count_private=true&show_icons=true) 
+  
+  **Favorites Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-## ⚡ Technologies
+## 🏆 GitHub Awards
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=andrealvimc)
+ 
+<!-- ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
 
@@ -29,5 +40,12 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+ -->
+ 
+ 
+
+
+
+<br />
 
 ![](https://komarev.com/ghpvc/?username=andrealvimc)
